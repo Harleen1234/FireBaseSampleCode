@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251593209871",
+    "firebase_url": "https://chatndate-ec93a.firebaseio.com",
+    "project_id": "chatndate-ec93a",
+    "storage_bucket": "chatndate-ec93a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251593209871:android:6b381b8145a7e3fe",
+        "android_client_info": {
+          "package_name": "com.harleen.chatndate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251593209871-0pda6dpojptp8nh1pj8rjo6mt62qdasd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "251593209871-6arkejkpp8ns2mihc4e4sjjilgb6qjfu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harleen.chatndate",
+            "certificate_hash": "42065f8040a061215089383db52c09af8b947f89"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymLGNqTG_b2yCGW3SpyNghhH9NRlbdrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251593209871-0pda6dpojptp8nh1pj8rjo6mt62qdasd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
